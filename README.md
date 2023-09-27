@@ -62,7 +62,6 @@ While using Our Service, We may ask You to provide Us with certain personally id
 - First name and last name
 - Phone number
 - Profile Image
-- Contact List
 
 
 
@@ -89,7 +88,6 @@ We may also collect information that Your browser sends whenever You visit our S
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
 
-- Information from your Device's phone book (contacts list)
 - Pick Image for profile photo
 
 
